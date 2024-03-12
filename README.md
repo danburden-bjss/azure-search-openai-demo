@@ -282,7 +282,7 @@ Here are the most common failure scenarios and solutions:
 ### Getting help
 
 This is a sample built to demonstrate the capabilities of modern Generative AI apps and how they can be built in Azure.
-For help with deploying this sample, please post in [GitHub Issues](/issues). If you're a Microsoft employee, you can also post in [our Teams channel](https://aka.ms/azai-python-help).
+For help with deploying this sample, please post in [GitHub Issues](../../../../Azure-Samples/azure-search-openai-demo/issues). If you're a Microsoft employee, you can also post in [our Teams channel](https://aka.ms/azai-python-help).
 
 This repository is supported by the maintainers, _not_ by Microsoft Support,
 so please use the support mechanisms described above, and we will do our best to help you out.
